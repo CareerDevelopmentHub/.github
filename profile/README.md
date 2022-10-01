@@ -2,7 +2,7 @@
 
 <div align=center>
     <img width="80px" src="https://avatars.githubusercontent.com/u/70839355?s=200&v=4" /></div> 
-<h3 align="center"> Welcome to Carrer Devlopment Hub</h3>
+<h3 align="center"> Welcome to Career Devlopment Hub</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <div align="center">
     
