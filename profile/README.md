@@ -9,7 +9,7 @@
 <h2 align="center"> 🔗 Connect with Us </h2>
 
 <div align="center">
-<a href="https://www.linkedin.com/company/career-development-hub/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></di
+<a href="https://www.linkedin.com/company/career-development-hub/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.youtube.com/channel/UCslmh8ws0zQPhMly4Itx_AQ"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 <a href="https://t.me/cwcincisive"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 <a href="https://www.instagram.com/career.development.hub/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
